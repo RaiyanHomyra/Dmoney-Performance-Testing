@@ -33,8 +33,14 @@ This project is a JMeter-based performance testing suite for the DMoney applicat
 - Screenshots/ → Report images  
 - request-summary.png  
 - statistics.png  
-## Performance Testing Documentation:
-[Click Here to see the Documentation](file:///C:/Users/User/Downloads/apache-jmeter-5.6.3/apache-jmeter-5.6.3/bin/B18/reports/index.html)
+### Test and Report Information 
+<img width="1634" height="777" alt="image" src="https://github.com/user-attachments/assets/d2654737-7292-47e8-9b75-6122e3caa46b" />
+
+### Statistics
+<img width="1627" height="585" alt="image" src="https://github.com/user-attachments/assets/32b90957-6181-4512-95f9-b18ceecb87a9" />
+
+### Errors
+<img width="1597" height="754" alt="image" src="https://github.com/user-attachments/assets/a8c7f825-8ffa-4d4e-a092-5f04bb9f22ea" />
 
 ## Notes:
 All test executions were performed using Apache JMeter in non-GUI mode, and the results were analyzed using the HTML report dashboard.
